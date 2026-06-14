@@ -38,7 +38,7 @@ numbers are modelled, not measured.
    physicochemical + exposure features, with standardized-coefficient feature drivers.
 6. **Interpretation** — tied to biocompatibility / material-induced immune response.
 
-## Key (illustrative) findings
+## Key findings
 - Material chemistry dominates viability (ANOVA highly significant); Ag/ZnO most cytotoxic,
   Au/PLGA/TiO₂ most biocompatible — consistent with the experimental literature.
 - Clean, quantifiable dose–response; ISO 10993-5 gives a defensible per-material threshold readout.
