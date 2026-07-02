@@ -1,5 +1,4 @@
-# Nanoparticle Biocompatibility & Cytotoxicity  
-- **Exploratory Analysis **#
+# Nanoparticle Biocompatibility & Cytotoxicity  - Exploratory Analysis #
 
 An end-to-end Python analysis of *in vitro* nanoparticle cytotoxicity: how material chemistry,
 dose, particle size, surface coating, and cell type drive cell viability, framed around the
