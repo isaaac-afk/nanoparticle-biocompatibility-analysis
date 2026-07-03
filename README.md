@@ -47,8 +47,8 @@ numbers are modelled, not measured.
 
 ## Run it
 ```bash
-pip install numpy pandas matplotlib scipy scikit-learn jupyter
-jupyter notebook nanoparticle_biocompatibility_analysis.ipynb
+- pip install numpy pandas matplotlib scipy scikit-learn jupyter
+- jupyter notebook nanoparticle_biocompatibility_analysis.ipynb
 ```
 
 ## Files
@@ -59,6 +59,5 @@ jupyter notebook nanoparticle_biocompatibility_analysis.ipynb
 - Swap in the real Labouta dataset and re-run (pipeline is column-compatible).
 - Fit 4-parameter logistic (Hill) curves for true IC50 per material/cell pair.
 - Mixed-effects modelling to separate material effects from assay/lab batch effects.
-
 ---
 *Simulated data; schema mirrors Labouta et al. (2019), ACS Nano, DOI 10.1021/acsnano.8b07562.*
