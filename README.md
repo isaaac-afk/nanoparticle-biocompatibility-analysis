@@ -5,7 +5,6 @@ dose, particle size, surface coating, and cell type drive cell viability, framed
 **ISO 10993-5** biocompatibility standard (viability < 70 % = cytotoxic).
 
 > **Author:** Isaac — (Biomedical), University of Waterloo
-
 ---
 
 ##  Data provenance 
