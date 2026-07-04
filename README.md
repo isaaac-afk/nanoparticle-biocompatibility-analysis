@@ -51,8 +51,8 @@ numbers are modelled, not measured.
 ```
 
 ## Files
-- `nanoparticle_biocompatibility_analysis.ipynb` — the analysis (runs top-to-bottom).
-- `figures/` — exported plots (EDA, dose–response, heatmap, feature drivers).
+- `nanoparticle_biocompatibility_analysis.ipynb` : the analysis (runs top-to-bottom).
+- `figures/` : exported plots (EDA, dose–response, heatmap, feature drivers).
 
 ## Possible next steps
 - Swap in the real Labouta dataset and re-run (pipeline is column-compatible).
