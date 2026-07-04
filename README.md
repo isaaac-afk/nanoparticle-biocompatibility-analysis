@@ -27,15 +27,15 @@ numbers are modelled, not measured.
 ---
 
 ## What the analysis does
-1. **Load & clean** — type/missing-value/range checks.
-2. **EDA** — viability distribution; viability by material (with the ISO 70 % line).
-3. **Dose–response** — median viability vs. log-concentration per material; a per-material
+1. **Load & clean** : type/missing-value/range checks.
+2. **EDA** : viability distribution; viability by material (with the ISO 70 % line).
+3. **Dose–response** : median viability vs. log-concentration per material; a per-material
    "cytotoxic threshold" table (lowest dose crossing 70 %).
-4. **Cell-type sensitivity** — material × cell-lineage heatmap; Welch t-test (macrophages vs.
+4. **Cell-type sensitivity** : material × cell-lineage heatmap; Welch t-test (macrophages vs.
    fibroblasts) and one-way ANOVA across materials.
-5. **Interpretable classifier** — logistic-regression baseline predicting cytotoxic (<70 %) from
+5. **Interpretable classifier** : logistic-regression baseline predicting cytotoxic (<70 %) from
    physicochemical + exposure features, with standardized-coefficient feature drivers.
-6. **Interpretation** — tied to biocompatibility / material-induced immune response.
+6. **Interpretation** : tied to biocompatibility / material-induced immune response.
 
 ## Key findings
 - Material chemistry dominates viability (ANOVA highly significant); Ag/ZnO most cytotoxic,
