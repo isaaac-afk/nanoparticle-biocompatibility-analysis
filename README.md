@@ -4,7 +4,7 @@ An end-to-end Python analysis of *in vitro* nanoparticle cytotoxicity: how mater
 dose, particle size, surface coating, and cell type drive cell viability, framed around the
 **ISO 10993-5** biocompatibility standard (viability < 70 % = cytotoxic).
 
-> **Author:** Isaac — (Biomedical), University of Waterloo
+> **Author:** Isaac - (Biomedical), University of Waterloo
 ---
 
 ##  Data Provenance 
