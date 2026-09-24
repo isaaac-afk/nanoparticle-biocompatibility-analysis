@@ -18,7 +18,6 @@ data can be dropped in with no code changes:
 
 **Run on the real data:** download the dataset → save as `nanoparticle_cytotoxicity.csv` → set
 `USE_REAL_DATA = True` in the data cell → map the real column names to the schema (a stub is provided).
-
 I built it this way to demonstrate the full pipeline reproducibly while being transparent that the
 numbers are modelled, not measured.
 
